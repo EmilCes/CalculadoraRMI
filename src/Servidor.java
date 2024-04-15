@@ -7,8 +7,8 @@ public class Servidor {
     public static void main(String[] args) {
         try {
             // Establece el puerto del servidor
-            int puerto = 8080;
-            String servidor = "localhost";
+            int puerto = 9090;
+            String servidor = "192.168.64.10";
 
             // Escribe en pantalla que el servidor esta ejecutandose
             System.out.println("Iniciando servidor en:");

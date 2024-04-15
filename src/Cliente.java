@@ -10,10 +10,10 @@ public class Cliente {
     public static void main(String[] args) {
         
         // Establece el puerto del servidor
-        int puerto = 8080;
+        int puerto = 9090;
 
         // Establece la dirección del servidor
-        String servidor = "localhost";
+        String servidor = "192.168.64.10";
 
         try {
             
